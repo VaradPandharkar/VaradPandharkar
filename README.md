@@ -1,79 +1,93 @@
-<h1 align="center">Hi 👋, I'm Varad Pandurkar</h1>
-<h3 align="center">Computer Science Student | Cybersecurity Enthusiast | AI Developer</h3>
+<div align="center">
 
-<p align="center">Building secure and intelligent systems for the future </p>
+# Varad Pandurkar
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Learning-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity-critical?style=for-the-badge" />
-</p>
+### Computer Science Student • Cybersecurity • Backend Developer
 
-<br>
+Building secure and intelligent systems.
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;AI+Developer;Python+Programmer;Backend+Developer" />
+
+</div>
+
+---
 
 ## About Me
 
-- 🎓 Computer Science student at DY Patil University
-- 🔐 Interested in Cybersecurity and Threat Intelligence
-- 🐍 Learning Python, C++, and Backend Development
-- 🤖 Building AI-powered security tools
-- 🌱 Currently exploring Networking and Ethical Hacking
+I am a Computer Science student at DY Patil University with a strong interest in cybersecurity, and backend development. I enjoy building secure and intelligent applications while continuously learning about networking, Linux, and ethical hacking.
 
-<br>
+---
 
-## Tech Stack
+## Technologies
 
-**Languages**
+### Languages
 
 <p>
-<img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python" />
-<img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus" />
+  <img src="https://skillicons.dev/icons?i=python,cpp" />
 </p>
 
-**Web Development**
+### Development
 
 <p>
-<img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5" />
-<img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3" />
-<img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react" />
-<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,flask" />
 </p>
 
-**Cybersecurity Tools**
+### Tools
 
 <p>
-<img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux" />
-<img src="https://img.shields.io/badge/Wireshark-black?style=for-the-badge&logo=wireshark" />
-<img src="https://img.shields.io/badge/Nmap-black?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Burp_Suite-black?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode" />
 </p>
 
-<br>
+---
 
 ## Featured Project
 
-### CYVRA — AI-Powered Digital Trust & Threat Intelligence Platform
+# CYVRA
+
+### AI-Powered Digital Trust & Threat Intelligence Platform
+
+CYVRA helps users identify phishing websites, scam messages, malicious QR codes, and other online threats before they cause harm.
+
+#### Core Features
 
 - Phishing website detection
 - Scam message analysis
-- Malicious QR scanner
-- AI chatbot assistant
+- Malicious QR-code scanner
+- AI-powered assistant
+- Real-time threat intelligence
 
-<br>
+---
 
-## GitHub Stats
+## GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=VaradPandharkar&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varad-Pandharka&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+## Connect
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark" />
+
+<a href="https://github.com/VaradPandharkar">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/varad-pandharkar-560661370">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
 </p>
 
-<br>
+---
 
-## Connect With Me
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-</p>
+*"Trust Before You Click."*
 
-<p align="center"><i>"Trust Before You Click." </i></p>
+</div>
