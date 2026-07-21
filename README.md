@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Varad Pandurkar</h1>
 <h3 align="center">Computer Science Student | Cybersecurity Enthusiast | AI Developer</h3>
 
-<p align="center">Building secure and intelligent systems for the future 🔐</p>
+<p align="center">Building secure and intelligent systems for the future </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Learning-blue?style=for-the-badge" />
@@ -10,7 +10,7 @@
 
 <br>
 
-## 🚀 About Me
+## About Me
 
 - 🎓 Computer Science student at DY Patil University
 - 🔐 Interested in Cybersecurity and Threat Intelligence
@@ -20,7 +20,7 @@
 
 <br>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -49,9 +49,9 @@
 
 <br>
 
-## 🔥 Featured Project
+## Featured Project
 
-### 🔐 CYVRA — AI-Powered Digital Trust & Threat Intelligence Platform
+### CYVRA — AI-Powered Digital Trust & Threat Intelligence Platform
 
 - Phishing website detection
 - Scam message analysis
@@ -60,7 +60,7 @@
 
 <br>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark" />
@@ -69,11 +69,11 @@
 
 <br>
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
 </p>
 
-<p align="center"><i>"Trust Before You Click." 🔐</i></p>
+<p align="center"><i>"Trust Before You Click." </i></p>
