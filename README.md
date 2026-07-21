@@ -1,6 +1,6 @@
 <div align="center">
 
-# Varad Pandurkar
+# Varad Pandharkar
 
 ### Computer Science Student • Cybersecurity • Backend Developer
 
