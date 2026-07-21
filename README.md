@@ -6,7 +6,7 @@
 
 Building secure and intelligent systems.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;AI+Developer;Python+Programmer;Backend+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;Python+Programmer;Backend+Developer" />
 
 </div>
 
